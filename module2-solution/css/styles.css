@@ -30,6 +30,7 @@ html,body{
   right: 0px;
   color: black;
   text-align: center;
+  overflow: auto;
 
 
 }
